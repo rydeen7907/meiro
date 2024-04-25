@@ -1,6 +1,7 @@
 =====
 meiro.py
 Python3.12で加工
+参考元
 https://kenyu-life.com/2019/05/15/python_game_meiro/
 
 2024.04.23
